@@ -2,7 +2,7 @@
 using Moq;
 using NFluent;
 
-namespace ChainCommand.test
+namespace ChainCommand.Test
 {
     [TestFixture]
     public class CancellableChainCommandTest

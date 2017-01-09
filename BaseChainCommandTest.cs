@@ -1,10 +1,9 @@
-﻿using System.Timers;
-using NUnit.Framework;
-using ChainCommand.test.fixture;
+﻿using NUnit.Framework;
+using ChainCommand.Test.fixture;
 using Moq;
 using NFluent;
 
-namespace ChainCommand.test
+namespace ChainCommand.Test
 {
     [TestFixture]
     class BaseChainCommandTest

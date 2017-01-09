@@ -1,5 +1,5 @@
 ﻿
-namespace ChainCommand.test.fixture
+namespace ChainCommand.Test.fixture
 {
     class PseudoCancellableChainCommand : CancellableChainCommand
     {

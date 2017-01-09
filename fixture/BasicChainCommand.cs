@@ -1,4 +1,4 @@
-﻿namespace ChainCommand.test.fixture
+﻿namespace ChainCommand.Test.fixture
 {
     public class BasicChainCommand : BaseChainCommand
     {
